@@ -1,2 +1,2 @@
-# Sales-Analytics
+# Sales Analytics
 Excel Project - Sales Analytics
